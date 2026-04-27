@@ -1,4 +1,4 @@
-roject: Eventify PRES Assignment
+Project: Eventify PRES Assignment
 
 How to run:
 1. Download ZIP from the GitHub repository.
